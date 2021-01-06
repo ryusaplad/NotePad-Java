@@ -7,7 +7,7 @@
 
 ## General info
 Notepad Java is a simple text input editor.
-
+#
 
 ### Top Languages i use.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryusaplad&layout=compact)](https://github.com/ryusaplad/github-readme-stats)
